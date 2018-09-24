@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "b1c28fd7972c06367b0eb68201dc45bf"
+build_time: [1531601122, 201338000]
+inputs:
+  "/Users/ybn/Library/Autosave Information/BestYakuGenerator/BestYakuGenerator/ViewController.swift": [1531055274, 0]
+  "/Users/ybn/Library/Autosave Information/BestYakuGenerator/BestYakuGenerator/TableViewController.swift": [1531030105, 0]
+  "/Users/ybn/Library/Autosave Information/BestYakuGenerator/BestYakuGenerator/AppDelegate.swift": [1529963534, 0]
